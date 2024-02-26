@@ -1,7 +1,7 @@
-Password and OTP Generator
-===========================
+quickkeys
+=========
 
-The Password and OTP Generator package provides a simple and versatile tool for generating secure passwords and one-time passwords (OTPs). With this package, you can easily generate passwords and OTPs of varying lengths and complexities to enhance the security of your applications.
+The quickkeys package provides a simple and versatile tool for generating secure passwords and one-time passwords (OTPs). With this package, you can easily generate passwords and OTPs of varying lengths and complexities to enhance the security of your applications.
 
 Features
 --------
@@ -26,17 +26,17 @@ Usage
 -----
 
     # Example usage for generating passwords
-    import password_otp_generator
+    import quickkeys
 
     # Generate a strong password
-    password = password_otp_generator.strong_password()
+    password = quickkeys.strong_password()
     print("Generated Strong Password:", password)
 
     # Generate a 6-digit OTP
-    otp = password_otp_generator.six_digit_otp()
+    otp = quickkeys.six_digit_otp()
     print("Generated OTP:", otp)
 
 Installation
 ------------
 
-    pip install password-otp-generator
+    pip install quickkeys
