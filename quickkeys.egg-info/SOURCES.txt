@@ -1,0 +1,8 @@
+setup.py
+quickkeys/QuickOTP.py
+quickkeys/QuickPass.py
+quickkeys/__init__.py
+quickkeys.egg-info/PKG-INFO
+quickkeys.egg-info/SOURCES.txt
+quickkeys.egg-info/dependency_links.txt
+quickkeys.egg-info/top_level.txt
