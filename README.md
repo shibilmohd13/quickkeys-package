@@ -25,8 +25,6 @@ Features
 Usage
 -----
 
-.. code-block:: python
-
     # Example usage for generating passwords
     import password_otp_generator
 
@@ -40,7 +38,5 @@ Usage
 
 Installation
 ------------
-
-.. code-block:: bash
 
     pip install password-otp-generator
